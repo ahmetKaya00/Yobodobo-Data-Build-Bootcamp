@@ -1,0 +1,2 @@
+Dosya işlemleri
+Python ile dosya işlemleri
